@@ -1,4 +1,4 @@
-echo "# landing" >> README.md
+echo "# landing" >> landing.html
 git init
 git add README.md
 git commit -m "first commit"
